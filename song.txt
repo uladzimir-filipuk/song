@@ -1,3 +1,5 @@
 add first half of my favorite song
 
 this is second half of my favorite song
+
+Создайте ветку feature и добавьте в неё два коммита
